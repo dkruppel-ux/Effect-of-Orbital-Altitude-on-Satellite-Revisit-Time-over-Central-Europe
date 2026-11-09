@@ -1,0 +1,9 @@
+{
+  "altitudes_km": [400, 500, 600, 700],
+  "sensor_half_angle_deg": 20.0,
+  "expected_duration_days": 30,
+  "analysis_start_utc": "2026-01-01T00:00:00Z",
+  "region_bounds_lon_lat": [5.0, 45.0, 25.0, 55.0],
+  "grid_step_deg": 0.5,
+  "chunk_rows": 4096
+}

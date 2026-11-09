@@ -1,0 +1,18 @@
+{
+  "trajectory_400km_30days.csv": {
+    "sha256": "1c78a04a11d454c091682cf3b5a0959f0702c02bc6fe52d3176cfa3558bfaa8f",
+    "bytes": 30038422
+  },
+  "trajectory_500km_30days.csv": {
+    "sha256": "66f0e151d94625277f689fcfdbc9ad9a67dcd0a72d52e130d8cddf937d96d9c2",
+    "bytes": 30038754
+  },
+  "trajectory_600km_30days.csv": {
+    "sha256": "2c2b152f4db9e8f5c0b554c1234215b1fa68d73fb3c907c62578e5bb9fc1b6d6",
+    "bytes": 30038739
+  },
+  "trajectory_700km_30days.csv": {
+    "sha256": "a932c35a43ead4403ef9e9db5c61a6b26f8006d7de0ab54dc6553a38a2273dee",
+    "bytes": 30039064
+  }
+}
